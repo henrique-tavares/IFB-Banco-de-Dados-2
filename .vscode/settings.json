@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "BD2_Semana_de_Pratica_2",
+            "database": "gesta_produto",
+            "username": "postgres",
+            "password": "123456789"
+        }
+    ]
+}
